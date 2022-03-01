@@ -12,7 +12,7 @@ body{
     align-items: center;
     cursor: pointer;
     font-family: sans-serif;
-    background: url("agevc.jpg") no-repeat center center/cover;
+    background: url("./agevc.jpg") no-repeat center center/cover;
 }
 
 .container{
